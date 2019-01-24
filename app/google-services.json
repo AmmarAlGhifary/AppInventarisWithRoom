@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "564351376098",
+    "firebase_url": "https://steadfast-karma-229014.firebaseio.com",
+    "project_id": "steadfast-karma-229014",
+    "storage_bucket": "steadfast-karma-229014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564351376098:android:1efe9324b242b54c",
+        "android_client_info": {
+          "package_name": "com.blogspot.yourfavoritekaisar.agendaharian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564351376098-una4706mtq0kqma10mrbmj9je9ipc96q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQxvIHdaIcqkQhhoyowVfss0uoEKfNmsA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
